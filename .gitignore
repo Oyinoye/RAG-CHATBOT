@@ -43,10 +43,6 @@ coverage.xml
 .vscode/
 .idea/
 
-# Docker files
-Dockerfile
-.dockerignore
-
 # macOS and other OS files
 .DS_Store
 Thumbs.db
